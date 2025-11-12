@@ -1,2 +1,8 @@
-# CMPE343_HW1
-Database homework with ER diagram and SQL queries
+# CMPE343 HW1
+
+- ER diagram (veterinary clinic)
+- SQL scripts for Tutor–Student–Course database  
+- Done in MySQL / SQLite
+
+## Author
+Nikita
